@@ -3,7 +3,7 @@
 #Combinação Simples - Funções ex.1
 
 def fatorial(x):
-  fatorial = 1
+    fatorial = 1
     valor = x #5
     for i in range(1, valor+1):
         if valor > 1:
