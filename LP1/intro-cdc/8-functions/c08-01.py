@@ -4,8 +4,10 @@
 
 def fatorial(x):
     fatorial = 1
-    valor = x #5
+    valor = x # Imutabilidade de variável
     for i in range(1, valor+1):
+        if valor == 0:
+            return 1
         if valor > 1:
             fatorial = fatorial * valor
             valor = valor - 1
