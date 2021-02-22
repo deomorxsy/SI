@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#date: 21/02/2021
+
 #Funcao que printa lista ou string ao contrario
 #sem utilizar funcoes embutidas
 #exemplo para List Comprehensions
