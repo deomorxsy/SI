@@ -1,4 +1,4 @@
-#### \~/index/
+#### \~/index/revisao-1/
 
 
 |                                    URI                                    | ☑️ |                                              Problem                                             |
@@ -33,3 +33,40 @@
 |                                      [1042](https://www.urionlinejudge.com.br/judge/en/problems/view/1042)                                 | ⬜ |                                              [Simple Sort](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-1/rev01_1042.py)                                         |
 |                                      [1043](https://www.urionlinejudge.com.br/judge/en/problems/view/1043)                                 | ⬜ |                                                [Triangle](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-1/rev01_1043.py)                                          |
 |                                      [1044](https://www.urionlinejudge.com.br/judge/en/problems/view/1044)                                 | ⬜ |                                               [Multiples](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-1/rev01_1044.py)                                          |
+
+
+#
+
+#### \~/index/revisao-2/
+
+|                                  URI                                  | ☑️ |                                                         Problem                                                        |
+|:---------------------------------------------------------------------:|:-:|:----------------------------------------------------------------------------------------------------------------------:|
+| [1048](https://www.urionlinejudge.com.br/judge/en/problems/view/1048) | ⬜ |          [Salary Increase](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1048.py)          |
+| [1049](https://www.urionlinejudge.com.br/judge/en/problems/view/1049) | ⬜ |               [Animal](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1049.py)              |
+| [1050](https://www.urionlinejudge.com.br/judge/en/problems/view/1050) | ⬜ |                [DDD](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1050.py)                |
+| [1051](https://www.urionlinejudge.com.br/judge/en/problems/view/1051) | ⬜ |               [Taxes](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1051.py)               |
+| [1059](https://www.urionlinejudge.com.br/judge/en/problems/view/1059) | ⬜ |            [Even Numbers](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1059.py)           |
+| [1060](https://www.urionlinejudge.com.br/judge/en/problems/view/1060) | ⬜ |          [Positive Numbers](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1060.py)         |
+| [1064](https://www.urionlinejudge.com.br/judge/en/problems/view/1064) | ⬜ |       [Positives and Average](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1064.py)       |
+| [1065](https://www.urionlinejudge.com.br/judge/en/problems/view/1065) | ⬜ |     [Even Between five Numbers](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1065.py)     |
+| [1072](https://www.urionlinejudge.com.br/judge/en/problems/view/1072) | ⬜ |             [Interval 2](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1072.py)            |
+| [1074](https://www.urionlinejudge.com.br/judge/en/problems/view/1074) | ⬜ |            [Even or Odd](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1074.py)            |
+| [1075](https://www.urionlinejudge.com.br/judge/en/problems/view/1075) | ⬜ |            [Remaining 2](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1075.py)            |
+| [1078](https://www.urionlinejudge.com.br/judge/en/problems/view/1078) | ☑️ |        [Multiplication Table](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1078.py)       |
+| [1079](https://www.urionlinejudge.com.br/judge/en/problems/view/1079) | ⬜ |         [Weighted Averages](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1079.py)         |
+| [1095](https://www.urionlinejudge.com.br/judge/en/problems/view/1095) | ⬜ |           [Sequence IJ 1](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1095.py)           |
+| [1096](https://www.urionlinejudge.com.br/judge/en/problems/view/1096) | ⬜ |           [Sequence IJ 2](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1096.py)           |
+| [1097](https://www.urionlinejudge.com.br/judge/en/problems/view/1097) | ⬜ |           [Sequence IJ 3](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1097.py)           |
+| [1098](https://www.urionlinejudge.com.br/judge/en/problems/view/1098) | ⬜ |           [Sequence IJ 4](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1098.py)           |
+| [1099](https://www.urionlinejudge.com.br/judge/en/problems/view/1099) | ⬜ | [Sum of Consecutive Odd Numbers II](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1099.py) |
+| [1101](https://www.urionlinejudge.com.br/judge/en/problems/view/1101) | ⬜ |    [Sequence of Numbers and Sum](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1101.py)    |
+| [1114](https://www.urionlinejudge.com.br/judge/en/problems/view/1114) | ⬜ |           [Fixed Password](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1114.py)          |
+| [1131](https://www.urionlinejudge.com.br/judge/en/problems/view/1131) | ⬜ |              [Grenais](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1131.py)              |
+| [1134](https://www.urionlinejudge.com.br/judge/en/problems/view/1134) | ⬜ |            [Type of Fuel](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1134.py)           |
+| [1142](https://www.urionlinejudge.com.br/judge/en/problems/view/1142) | ⬜ |                [PUM](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1142.py)                |
+| [1143](https://www.urionlinejudge.com.br/judge/en/problems/view/1143) | ⬜ |         [Squared and Cubic](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1143.py)         |
+| [1145](https://www.urionlinejudge.com.br/judge/en/problems/view/1145) | ⬜ |         [Logical Sequence 2](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1145.py)        |
+| [1172](https://www.urionlinejudge.com.br/judge/en/problems/view/1172) | ⬜ |        [Array Replacement I](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1172.py)        |
+| [1174](https://www.urionlinejudge.com.br/judge/en/problems/view/1174) | ⬜ |         [Array Selection I](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1174.py)         |
+| [1182](https://www.urionlinejudge.com.br/judge/en/problems/view/1182) | ⬜ |          [Column in Array](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1182.py)          |
+| [1183](https://www.urionlinejudge.com.br/judge/en/problems/view/1183) | ⬜ |      [Above the Main Diagonal](https://github.com/deomorxsy/SI/blob/master/LP1/rev-URI/revisao-2/rev2-1183.py)      |
