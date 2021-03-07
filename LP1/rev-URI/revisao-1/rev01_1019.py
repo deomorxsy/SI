@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#date:06/03/2021
 
 def timeconv(dur):
     hours = dur // 3600
