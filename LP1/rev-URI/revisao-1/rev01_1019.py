@@ -2,7 +2,8 @@
 
 def timeconv(dur):
     hours = dur // 3600
-    mint = dur // 60
+    foohours = dur % 3600
+    mint = foohours // 60
     sec = dur % 60
 
     return print("{}:{}:{}".format(hours, mint, sec))
